@@ -1,3 +1,5 @@
+
+//Serer initialized
 const express = require("express");
 const app = express();
 
